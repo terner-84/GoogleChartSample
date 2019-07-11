@@ -12,7 +12,8 @@ $().ready(function(){
                 ['Fabia', 0, null],
                 ['Nitrogen', 0.75, null],
                 ['Oxygen', 0.21, null],
-                ['Aluminium', 0.01, null]
+                ['Aluminium', 0.01, null],
+                ['Deutherium', 0.05, null]
             ];
 
             let options = {
