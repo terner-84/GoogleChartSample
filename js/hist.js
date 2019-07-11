@@ -16,6 +16,8 @@ $().ready(function(){
                 ['Deutherium', 0.05, null]
             ];
 
+            // comment
+
             let options = {
                 title: 'Approximating Normal Distribution',
                 legend: { position: 'none' },
